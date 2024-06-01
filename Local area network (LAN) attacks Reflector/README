@@ -1,0 +1,8 @@
+Name: Mohammed Ahmed Ragab
+ASU ID: 1221724075
+
+Description of how my program work:
+-----------------------------------
+my program should listen to the given network interface, and any IP, TCP, or UDP packets sent to the given victim IP address should be taken and sent (without modification) on the given interface to the src IP from the reflector IP address. Then, when there is a response from the src IP address to the reflector IP address, that response should be sent back to the src IP address as if it was from the victim IP address.
+
+In this way, my program will impersonate two IP addresses (victim and reflector), and any packets that are sent to the victim will get resent to the src IP from the reflector IP. One good way to test this is to try to SSH to the victim IP from a machine that you have SSH access. You should find yourself SSHing into that same machine.
