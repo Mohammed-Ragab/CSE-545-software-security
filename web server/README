@@ -1,0 +1,6 @@
+Name: Mohammed Ahmed Ragab
+ASU ID: 1221724075
+
+description of my program:
+--------------------------
+my program server.c is a web servier listening on a given port to serve the HTTP 1.1 request comming from a client (e.g. curl), then extract a command from the URL of the HTTP request, after that it execute the command via the shell , then return back the result of the command in HTTP response to the client
