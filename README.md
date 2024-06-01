@@ -1,4 +1,5 @@
 # CSE-545-software-security
+![ASU logo](https://github.com/Mohammed-Ragab/CSE-545-software-security/assets/37158885/ddc7c95c-625f-4105-80f3-7f53c59977f6)
 
 # Projects for ASU CSE-545-software-security
 
